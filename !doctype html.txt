@@ -42,10 +42,10 @@
 <body>
   <div class="card">
     <h1>Link Bio</h1>
-    <a class="fb" href="https://facebook.com/ten_facebook_cua_may" target="_blank">Facebook</a>
-    <a class="ig" href="https://instagram.com/ten_instagram_cua_may" target="_blank">Instagram</a>
-    <a class="yt" href="https://youtube.com/@ten_kenh_cua_may" target="_blank">YouTube</a>
-    <a class="mail" href="mailto:tenemailcuamay@gmail.com">Gmail</a>
+    <a class="fb" href="https://facebook.com/otic11" target="_blank">Facebook</a>
+    <a class="ig" href="https://instagram.com/oticc.c" target="_blank">Instagram</a>
+    <a class="yt" href="https://youtube.com/@Tuilalucer" target="_blank">YouTube</a>
+    <a class="mail" href="mailto:luanvo300420@gmail.com">Gmail</a>
   </div>
 </body>
 </html>
